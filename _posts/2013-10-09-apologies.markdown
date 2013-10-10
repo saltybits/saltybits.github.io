@@ -11,7 +11,7 @@ I've started a few personal blogs in the past, but I've never been able to keep 
 
 I'm constantly impressed by guys like [TJ Holowaychuk][tj] ([github.com/visionmedia][visionmedia]), not only by the quality and shear quantity of [the][1] [libraries][2] [he's][3] [written][4], but also by how actively he blogs about them and puts time into [documenting everything so clearly][rework].  TJ is an animal!
 
-For whatever reason, I've always found it hard to help people I'm not face-to-face with. Or even stay in contact with them for that matter (sorry guys!). Being on the short end of the time difference makes it surprisingly hard to keep in touch.
+For whatever reason, I've always found it hard to help people I'm not face-to-face with. Or even stay in contact with them for that matter (sorry guys!). Being on the [short end][hst] of a time difference makes it surprisingly hard to keep in touch.
 
 With a [wife and two kids][instagram], a [full time job][kumu], and a healthy appetite for getting in the water and staying active, it's hard to pause and reflect, let alone write a blog post just to help a fellow programmer out.
 
@@ -26,6 +26,7 @@ If you don't have a development blog of your own, start one today! Jump on [Jeky
 [rework]: http://tjholowaychuk.com/post/44267035203/modular-css-preprocessing-with-rework
 [tj]: http://tjholowaychuk.com/
 [visionmedia]: https://github.com/visionmedia
+[hst]: https://www.google.com/search?q=current+time+in+hawaii
 [instagram]: http://instagram.com/rymohr
 [kumu]: http://kumu.io
 [kick]: https://twitter.com/intent/tweet?text=kick%20@thesaltybits
